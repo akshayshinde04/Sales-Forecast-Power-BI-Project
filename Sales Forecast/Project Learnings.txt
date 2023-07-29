@@ -1,0 +1,38 @@
+Project Learnings
+
+• Created interactive dashboard to track and analyze online sales data
+
+• Used complex parameters to drill down in worksheet and customization using filters and slicers
+
+• Created connections, join new tables, calculations to manipulate data and enable user driven parameters for visualizations
+
+• Used different types of customized visualization (bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers, etc)
+
+
+
+OBJECTIVE
+
+To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, 
+to provide valuable insights and accurate sales forecasting.
+
+
+
+DESCRIPTION
+
+The objective can be broken down into the following detailed components:
+
+1. Dashboard Creation: Identify the KPIs, design an intuitive and visually appealing dashboard, add interactive visualizations
+ and filtering capabilities to allow users to explore the data at various levels of granularity
+
+2. Data Analysis: Provide valuable insights to business entities regarding the effectiveness of their sales strategies through visualization and charts
+. Sales Forecasting: Leverage historic data and apply time series analysis to generate sales forecasts for next 15 days
+
+4. Actionable Insights and Recommendations: End goal is to share valuable insights and actionable information that can drive 
+strategic decision-making and support the supermarket's goals for growth, efficiency, and customer satisfaction
+
+
+
+LEARNING
+
+Incorporated data analysis techniques, specializing in time series analysis, to deliver valuable insights, accurate sales forecasting,
+and interactive dashboard creation, driving business success.
